@@ -161,9 +161,9 @@
 
 
 
-// var a =10;
-// var a =10;
-// // a = 'country';
+// var a = 10;
+// var a = 10;
+// a = 'country';
 // {
 //     var block = '30';
 //     console.log(a);
@@ -320,6 +320,11 @@
 //         else 
 //         console.log(`a is not 1`);
 // }
+    // let a = 1, b = 2
+    // if(a === 1 && b === 2)
+    //         console.log(`a is 1 and b is 2`);
+    //     else 
+    //     console.log(`a is not 1`);
 
 // checkValue(1,2)
 
@@ -410,3 +415,5 @@
 //     dice = Math.trunc(Math.random() * 6) + 1
 //     if(dice == 6)console.log(`6`);
 // }
+
+
